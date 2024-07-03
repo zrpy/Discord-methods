@@ -4,8 +4,11 @@ discord method for education.
 don't use tor proxy.<br>
 do get cookie for request headers.(`https://discord.com/(app/login/register)`)<br>
 request header is must be discord client header.<br>
-The above method is for raising the request score.
-But When account score is low, Can't join to server.
+The above method is for raising the request score.<br>
+But When account score is low, Can't join to server.<br>
+###Postscript
+Maybe the header xsp and the websocket xsp are checking matched.<br>
+and should use a session_id to join.
 ## Freeze server method(old)
 1. (Send illegal picture for example, child pornography, kill something and some kind of criminal activity) or find illegal content
 2. choose the match item for report (1) content.
