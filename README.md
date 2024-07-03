@@ -8,7 +8,7 @@ The above method is for raising the request score.<br>
 But When account score is low, Can't join to server.<br>
 #### Postscript
 Maybe the header xsp and the websocket xsp are checking matched.<br>
-and should use a session_id to join.
+and should use a session_id to join.<br>
 discord is to accept you request,when you obey above rules.
 ## Freeze server method(old)
 1. (Send illegal picture for example, child pornography, kill something and some kind of criminal activity) or find illegal content
