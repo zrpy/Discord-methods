@@ -6,7 +6,7 @@ do get cookie for request headers.(`https://discord.com/(app/login/register)`)<b
 request header is must be discord client header.<br>
 The above method is for raising the request score.<br>
 But When account score is low, Can't join to server.<br>
-###Postscript
+### Postscript
 Maybe the header xsp and the websocket xsp are checking matched.<br>
 and should use a session_id to join.
 ## Freeze server method(old)
