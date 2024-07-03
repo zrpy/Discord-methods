@@ -1,5 +1,6 @@
 # Discord-methods
-discord method for education.
+discord method for education.<br>
+<a href="https://github.com/voidpro-dev/discord.py-self/blob/self/discord/http.py">Recommended repository</a>
 ## Join to server method(selfbot)
 don't use tor proxy.<br>
 do get cookie for request headers.(`https://discord.com/(app/login/register)`)<br>
